@@ -1,11 +1,9 @@
 # ✨ About Me:
 ¡Bienvenido a mi perfil!
 
-Hola 👋, soy un joven programador de 19 años de El Salvador con una gran pasión por la tecnología y un deseo inagotable de aprender. Estoy emocionado por los retos que el mundo de la programación tiene para ofrecer y siempre busco nuevas oportunidades para crecer y contribuir con ideas frescas.
+Hola 👋, soy un joven programador de 19 años de El Salvador con una gran pasión por la tecnología y un deseo de aprender. Estoy emocionado por los retos que el mundo de la programación tiene para ofrecer y siempre busco nuevas oportunidades para crecer y contribuir con ideas frescas.
 
-Si buscas a alguien con energía, dedicación y muchas ganas de marcar la diferencia, ¡estás en el lugar correcto! 🚀
-
-🌱 Actualmente aprendiendo: JavaScript, diseño arquitectónico en 3D, y todo lo que me acerque a mis metas.
+🌱 Actualmente aprendiendo: JavaScript. 
 
 
 ## 🌐 Socials:
