@@ -25,13 +25,10 @@
 
 ---
 
----
+
 
 ### ⚡ Github Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=edgarnub9k&show_icons=true&theme=tokyonight" alt="Edgardo's Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgarnub9k&layout=compact&theme=tokyonight" alt="Edgardo's Top Langs" height="180px" />
-</p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edgarnub9k)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
