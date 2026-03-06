@@ -26,12 +26,14 @@
 ---
 
 ### ⚡ Github Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=edgarnub9k&show_icons=true&theme=tokyonight)
+
+![Edgar GitHub stats](https://github-readme-stats.vercel.app/api?username=edgarnub9k&show_icons=true&theme=tokyonight&cache_seconds=1800)
+
 ---
 
 ### 🧠 Lenguajes más usados
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edgarnub9k&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edgarnub9k&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 ---
 
