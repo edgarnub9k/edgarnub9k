@@ -25,10 +25,20 @@
 
 ---
 
-
-
 ### ⚡ Github Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edgarnub9k)](https://github.com/edgarnub9k/github-readme-stats)
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=edgarnub9k&show_icons=true&theme=tokyonight)
+
+---
+
+### 🧠 Lenguajes más usados
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=edgarnub9k&layout=compact&theme=tokyonight)
+
+---
+
+### 📊 Actividad en GitHub
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=edgarnub9k&theme=tokyo-night)
 
 ---
