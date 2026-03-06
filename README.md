@@ -29,6 +29,6 @@
 
 ### ⚡ Github Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edgarnub9k)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edgarnub9k)](https://github.com/edgarnub9k/github-readme-stats)
 
 ---
