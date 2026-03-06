@@ -30,8 +30,8 @@
 ### ⚡ Github Stats
 
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=edgarnub9k&show_icons=true&theme=dark&hide_border=true" alt="Edgardo's Stats" width="48%">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgarnub9k&layout=compact&theme=dark&hide_border=true" alt="Edgardo's Top Langs" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=edgarnub9k&show_icons=true&theme=tokyonight" alt="Edgardo's Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgarnub9k&layout=compact&theme=tokyonight" alt="Edgardo's Top Langs" height="180px" />
 </p>
 
-<br><br><br><br>
+---
