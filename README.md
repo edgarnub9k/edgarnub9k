@@ -25,20 +25,22 @@
 
 ---
 
-### ⚡ Github Stats
+### 📊 Mis Estadísticas de GitHub
 
-![Edgar GitHub stats](https://github-readme-stats.vercel.app/api?username=edgarnub9k&show_icons=true&theme=tokyonight&cache_seconds=1800)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edgarnub9k&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=edgarnub9k&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=edgarnub9k&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=edgarnub9k&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=edgarnub9k&theme=radical" />
+</p>
 
 ---
 
-### 🧠 Lenguajes más usados
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edgarnub9k&layout=compact&theme=tokyonight&cache_seconds=1800)
-
----
-
-### 📊 Actividad en GitHub
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=edgarnub9k&theme=tokyo-night)
-
----
+<h3>Eterno Autodidacta</h3>
