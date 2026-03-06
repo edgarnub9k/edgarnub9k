@@ -1,7 +1,7 @@
-# Hi 👋 My name is Edgardo
-## Futuro Ingeniero de Sistemas | Desarrollador Autodidacta
+# Hi 👋 My name is Edgardo, Moran 
+## Desarrollador Autodidacta
 
-¡Hola! Soy Edgardo. Actualmente curso la carrera de Ingeniería en Sistemas. Mi enfoque principal es el aprendizaje autodidacta, lo que me ha permitido explorar y dominar diversas tecnologías por cuenta propia. Me gusta enfrentar nuevos retos técnicos y mi meta actual es seguir aprendiendo y mejorando mis técnicas.
+¡Hola! Soy Edgardo. Actualmente soy estudiante en la especialidad de la carrera de Ingeniería en Sistemas Informatico. Mi enfoque principal es el aprendizaje autodidacta, lo que me ha permitido explorar y dominar diversas tecnologías por cuenta propia. Me gusta enfrentar nuevos retos técnicos y mi meta actual es seguir aprendiendo y mejorando mis técnicas.
 
 * 🌍 I'm based in El Salvador
 
