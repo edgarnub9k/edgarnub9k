@@ -25,9 +25,13 @@
 
 ---
 
+---
+
 ### ⚡ Github Stats
 
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=edgarnub9k&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Edgardo's Github Stats" width="55%">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgarnub9k&show_icons=true&hide_border=true&layout=compact&theme=dark" width="40%" alt="Edgardo's Top Languages">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=edgarnub9k&show_icons=true&theme=dark&hide_border=true" alt="Edgardo's Stats" width="48%">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgarnub9k&layout=compact&theme=dark&hide_border=true" alt="Edgardo's Top Langs" width="48%">
 </p>
+
+<br><br><br><br>
