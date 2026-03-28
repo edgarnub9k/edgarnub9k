@@ -6,12 +6,7 @@
 * 🌍 I'm based in El Salvador
 
 ### 🏆 Certificaciones
-### 🏆 Certificaciones
-<p align="left">
-  <a href="https://www.credly.com/badges/a9e2bd97-0292-4ddf-90d5-ac88de21a472/public_url" target="_blank" rel="noreferrer">
-    <img src="https://images.credly.com/images/43632906-81c0-422c-90b5-779838089457/image.png" alt="JavaScript Essentials 1 Badge" title="JavaScript Essentials 1 - Cisco NetAcad" width="130" />
-  </a>
-</p>
+[![JavaScript Essentials 1](https://images.credly.com/images/43632906-81c0-422c-90b5-779838089457/image.png)](https://www.credly.com/badges/a9e2bd97-0292-4ddf-90d5-ac88de21a472/public_url)
 
 ### 🛠️ Tecnologías y Lenguajes
 <p align="left">
