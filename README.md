@@ -6,7 +6,11 @@
 * 🌍 I'm based in El Salvador
 
 ### 🏆 Certificaciones
-[![JavaScript Essentials 1](https://images.credly.com/images/43632906-81c0-422c-90b5-779838089457/image.png)](https://www.credly.com/badges/a9e2bd97-0292-4ddf-90d5-ac88de21a472/public_url)
+<p align="left">
+  <a href="https://www.credly.com/badges/a9e2bd97-0292-4ddf-90d5-ac88de21a472/public_url" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/edgarnub9k/edgarnub9k/31262c6e2a7cea4c8a9d7ee6730592aadc4c9229/javascript-essentials-1.png" alt="JavaScript Essentials 1 Badge" width="130" title="JavaScript Essentials 1 - Cisco NetAcad" />
+  </a>
+</p>
 
 ### 🛠️ Tecnologías y Lenguajes
 <p align="left">
