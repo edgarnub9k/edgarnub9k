@@ -1,9 +1,16 @@
 # Hi 👋 My name is Edgardo, Moran 
 ## Desarrollador Autodidacta
 
-¡Hola! Soy Edgardo. Actualmente soy estudiante en la especialidad de la carrera de Ingeniería en Sistemas Informatico. Mi enfoque principal es el aprendizaje autodidacta, lo que me ha permitido explorar y dominar diversas tecnologías por cuenta propia. Me gusta enfrentar nuevos retos técnicos y mi meta actual es seguir aprendiendo y mejorando mis técnicas.
+¡Hola! Soy Edgardo. Actualmente soy estudiante de Ingeniería en Sistemas Informáticos. Mi enfoque principal es el aprendizaje autodidacta, lo que me ha permitido explorar y dominar diversas tecnologías por cuenta propia. Me gusta enfrentar nuevos retos técnicos y mi meta actual es seguir aprendiendo y mejorando mis técnicas.
 
 * 🌍 I'm based in El Salvador
+
+### 🏆 Certificaciones
+<p align="left">
+  <a href="https://www.credly.com/badges/a9e2bd97-0292-4ddf-90d5-ac88de21a472/public_url" target="_blank" rel="noreferrer">
+    <img src="https://images.credly.com/images/43632906-81c0-422c-90b5-779838089457/image.png" alt="JavaScript Essentials 1 Badge" title="JavaScript Essentials 1 - Cisco NetAcad" width="130" />
+  </a>
+</p>
 
 ### 🛠️ Tecnologías y Lenguajes
 <p align="left">
@@ -42,5 +49,4 @@
 </p>
 
 ---
-
 <h3>Eterno Autodidacta</h3>
